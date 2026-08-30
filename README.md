@@ -1,4 +1,4 @@
-# Hey, I'm Malhar 👋
+# Hey, I'm Malhar 
 
 **Security-focused Software Engineer** | Mobile Developer | Aspiring to work in Japan 🇯🇵
 
@@ -8,23 +8,23 @@ I build security tools and mobile applications — with a focus on things that a
 
 ## What I'm working on
 
-- 🔐 Building **PhishGuard** — a phishing detection REST API with live threat intelligence feeds
-- 📱 Software Engineering Intern at **Clazuno** — shipping a production coaching platform in React Native
-- 🛡️ Studying web application security through PortSwigger Web Security Academy
-- 🇯🇵 Preparing for JLPT N1 | Currently N2 certified
+- Building **PhishGuard** — a phishing detection REST API with live threat intelligence feeds
+- Software Engineering Intern at **Clazuno** — shipping a production coaching platform in React Native
+- Studying web application security through PortSwigger Web Security Academy
+- Preparing for JLPT N1 | Currently N2 certified
 
 ---
 
 ## Featured Projects
 
-### 🔒 [Singularity Vault](https://github.com/theriftlabs/SingularityVault)
+### [Singularity Vault](https://github.com/theriftlabs/SingularityVault)
 An offline-first Android password manager built on a strict security-over-convenience philosophy.
 AES-256 encryption, PBKDF2 key derivation, biometric auth, zero cloud dependency.
 **Published on Google Play Store.**
 
 `Kotlin` `Jetpack Compose` `Android Keystore` `PBKDF2` `AES-256` `MVVM`
 
-### 🤖 [Guardian AI](https://github.com/anchit-goel/Guardian-AI)
+### [Guardian AI](https://github.com/anchit-goel/Guardian-AI)
 Multimodal AI security platform for deepfake detection and prompt injection mitigation across image and audio pipelines. Built as a finalist project at **Hack IITK 2026** — IIT Kanpur's national cybersecurity hackathon (C3i Hub).
 
 `Python` `Flask` `TensorFlow`
@@ -53,16 +53,15 @@ Multimodal AI security platform for deepfake detection and prompt injection miti
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ByteSizedMe&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByteSizedMe&layout=compact&theme=dark&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=ByteSizedMe&theme=dark&hide_border=true"/>
 </p>
 
 ---
 
 ## Achievements
 
-- 🏆 Finalist — **Hack IITK 2026**, IIT Kanpur's national cybersecurity hackathon (C3i Hub)
-- 🇯🇵 **JLPT N2 Certified** — Japanese Language Proficiency
+- Finalist — **Hack IITK 2026**, IIT Kanpur's national cybersecurity hackathon (C3i Hub)
+- **JLPT N2 Certified** — Japanese Language Proficiency
 
 ---
 
