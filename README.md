@@ -8,7 +8,6 @@ I build security tools and mobile applications — with a focus on things that a
 
 ## What I'm working on
 
-- Building **PhishGuard** — a phishing detection REST API with live threat intelligence feeds
 - Software Engineering Intern at **Clazuno** — shipping a production coaching platform in React Native
 - Studying web application security through PortSwigger Web Security Academy
 - Preparing for JLPT N1 | Currently N2 certified
@@ -17,33 +16,37 @@ I build security tools and mobile applications — with a focus on things that a
 
 ## Featured Projects
 
+### [PhishGuard](https://github.com/ByteSizedMe/PhishGuard)
+A phishing and malicious URL detection REST API built in TypeScript and Node.js.
+
+Analyses 15+ structural and behavioural signals per URL — including Shannon entropy, Damerau-Levenshtein typosquatting detection, homoglyph normalisation, Punycode IDN attacks, and double-encoding evasion — integrated with Google Safe Browsing and URLhaus threat intelligence feeds. Returns per-signal explainability rather than a black-box verdict.
+
+Includes API key authentication (bcrypt-hashed), rate limiting, PostgreSQL scan history, and batch URL analysis.
+
+`TypeScript` `Node.js` `Express` `PostgreSQL` `Google Safe Browsing` `URLhaus`
+
 ### [Singularity Vault](https://github.com/theriftlabs/SingularityVault)
 An offline-first Android password manager built on a strict security-over-convenience philosophy.
-AES-256 encryption, PBKDF2 key derivation, biometric auth, zero cloud dependency.
+
+AES-256-GCM encryption, PBKDF2WithHmacSHA256 key derivation (100,000 iterations), biometric auth, zero cloud dependency. Deliberate brute-force resistance with 1.15s key derivation per unlock — zero plaintext credential storage.
+
 **Published on Google Play Store.**
 
-`Kotlin` `Jetpack Compose` `Android Keystore` `PBKDF2` `AES-256` `MVVM`
-
-### [Guardian AI](https://github.com/anchit-goel/Guardian-AI)
-Multimodal AI security platform for deepfake detection and prompt injection mitigation across image and audio pipelines. Built as a finalist project at **Hack IITK 2026** — IIT Kanpur's national cybersecurity hackathon (C3i Hub).
-
-`Python` `Flask` `TensorFlow`
-
----
+`Kotlin` `Jetpack Compose` `Android Keystore` `AES-256-GCM` `PBKDF2` `MVVM`
 
 ## Technical Stack
 
 **Mobile**
-`Android (Kotlin + Jetpack Compose)` `React Native (Expo)` 
+`Android (Kotlin + Jetpack Compose)` `React Native (Expo)`
 
 **Backend**
-`Node.js` `TypeScript` `Firebase` `REST APIs`
+`Node.js` `TypeScript` `PostgreSQL` `Firebase` `REST APIs`
 
 **Security**
-`AES-256` `PBKDF2` `Biometric Auth` `Secure Session Management` `Web Application Security`
+`AES-256-GCM` `PBKDF2` `Android Keystore` `BiometricPrompt` `Web Application Security`
 
 **Tools**
-`Git` `Linux` `Android Studio` 
+`Git` `Linux` `Android Studio`
 
 **Languages**
 `Kotlin` `Python` `TypeScript` `JavaScript` `Java` `C` `SQL`
@@ -61,14 +64,13 @@ Multimodal AI security platform for deepfake detection and prompt injection miti
 ## Achievements
 
 - Finalist — **Hack IITK 2026**, IIT Kanpur's national cybersecurity hackathon (C3i Hub)
-- **JLPT N2 Certified** — Japanese Language Proficiency
+- 🇯🇵 **JLPT N2 Certified** — Japanese Language Proficiency
 
 ---
 
 ## Currently Learning
 
-- Web application security — SQL injection, authentication, XSS (PortSwigger)
-- Backend development — Node.js, TypeScript, PostgreSQL  
+- Web application security — SQL injection, authentication vulnerabilities, XSS (PortSwigger)
 - Burp Suite — intercepting proxy for web and mobile security testing
 - Japanese — targeting JLPT N1 by 2027
 
