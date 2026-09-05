@@ -1,6 +1,6 @@
 # Hey, I'm Malhar 
 
-**Security-focused Software Engineer** | Mobile Developer | Aspiring to work in Japan 🇯🇵
+**Security-focused Software Engineer** | Mobile Developer | Aspiring to work in Japan
 
 I build security tools and mobile applications — with a focus on things that are actually useful and architecturally honest. Currently a CS undergrad at Manipal Institute of Technology Bangalore, entering my third year.
 
