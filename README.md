@@ -79,6 +79,7 @@ AES-256-GCM encryption, PBKDF2WithHmacSHA256 key derivation (100,000 iterations)
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malhar-srivatsav/)
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white)](https://qiita.com/ByteSizedMe)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:malharsrivatsav2@gmail.com)
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.riftlabs.singularityvault)
 
